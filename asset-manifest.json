@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yanga-site/static/css/main.28de3e80.css",
+    "main.js": "/yanga-site/static/js/main.a5ddc074.js",
+    "static/media/person.jpg": "/yanga-site/static/media/person.5405ce71516dfc118979.jpg",
+    "index.html": "/yanga-site/index.html",
+    "main.28de3e80.css.map": "/yanga-site/static/css/main.28de3e80.css.map",
+    "main.a5ddc074.js.map": "/yanga-site/static/js/main.a5ddc074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28de3e80.css",
+    "static/js/main.a5ddc074.js"
+  ]
+}
